@@ -1,0 +1,23 @@
+{
+    "Tareas": [
+        {
+            "title": "Tarea 1",
+            "resposable": "Juan David",
+            "descripcion": "Lorem Impsum",
+            "prioridad": "Baja"
+        },
+        
+        {
+            "title": "Tarea 2",
+            "resposable": "Karen Moreno",
+            "descripcion": "Lorem impsum",
+            "prioridad": "Media"
+        },
+        {
+            "title": "Tarea 3",
+            "resposable": "Camilo Vejarano",
+            "descripcion": "Lorem Impsum",
+            "prioridad": "Alta"
+        }
+    ]
+}
